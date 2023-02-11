@@ -1,0 +1,110 @@
+@media (min-width: 1200px) { 
+    div {
+        width:130px; 
+        height: 230px; 
+        overflow: hidden;
+    }
+        
+    div img {
+        margin: -10px 0px 0px -0px;
+    }
+}
+@media (min-width: 1100px) and (max-width: 1200px) { 
+    div {
+        width:130px; 
+        height: 230px; 
+        overflow: hidden;
+    }
+        
+    div img {
+        margin: -10px 0px 0px -130px;
+    }
+}
+@media (min-width: 1000px) and (max-width: 1100px) { 
+    div {
+        width:130px; 
+        height: 230px; 
+        overflow: hidden;
+    }
+        
+    div img {
+        margin: -10px 0px 0px -255px;
+    }
+}
+@media (min-width: 900px) and (max-width: 1000px) { 
+    div {
+        width:130px; 
+        height: 230px; 
+        overflow: hidden;
+    }
+        
+    div img {
+        margin: -10px 0px 0px -380px;
+    }
+}
+@media (min-width: 800px) and (max-width: 900px) { 
+    div {
+        width:130px; 
+        height: 230px; 
+        overflow: hidden;
+    }
+        
+    div img {
+        margin: -10px 0px 0px -510px;
+    }
+}
+@media (min-width: 700px) and (max-width: 800px) { 
+    div {
+        width:130px; 
+        height: 230px; 
+        overflow: hidden;
+    }
+        
+    div img {
+        margin: -245px 0px 0px -1px;
+    }
+}
+@media (min-width: 600px) and (max-width: 700px) { 
+    div {
+        width:130px; 
+        height: 230px; 
+        overflow: hidden;
+    }
+        
+    div img {
+        margin: -245px 0px 0px -130px;
+    }
+}
+@media (min-width: 500px) and (max-width: 600px) { 
+    div {
+        width:130px; 
+        height: 230px; 
+        overflow: hidden;
+    }
+        
+    div img {
+        margin: -245px 0px 0px -255px;
+    }
+}
+@media (min-width: 400px) and (max-width: 500px) { 
+    div {
+        width:130px; 
+        height: 230px; 
+        overflow: hidden;
+    }
+        
+    div img {
+        margin: -245px 0px 0px -384px;
+    }
+}
+@media (max-width: 400px) { 
+    div {
+        width:130px; 
+        height: 230px; 
+        overflow: hidden;
+    }
+        
+    div img {
+        margin: -245px 0px 0px -510px;
+    }
+}
